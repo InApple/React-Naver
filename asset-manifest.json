@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Naver/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React-Naver/static/js/main.a36a8edd.chunk.js",
+    "main.js.map": "/React-Naver/static/js/main.a36a8edd.chunk.js.map",
+    "runtime-main.js": "/React-Naver/static/js/runtime-main.1e7673e4.js",
+    "runtime-main.js.map": "/React-Naver/static/js/runtime-main.1e7673e4.js.map",
+    "static/js/2.5ff4dc11.chunk.js": "/React-Naver/static/js/2.5ff4dc11.chunk.js",
+    "static/js/2.5ff4dc11.chunk.js.map": "/React-Naver/static/js/2.5ff4dc11.chunk.js.map",
+    "static/js/3.982a26fb.chunk.js": "/React-Naver/static/js/3.982a26fb.chunk.js",
+    "static/js/3.982a26fb.chunk.js.map": "/React-Naver/static/js/3.982a26fb.chunk.js.map",
+    "index.html": "/React-Naver/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/React-Naver/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5ff4dc11.chunk.js.LICENSE.txt": "/React-Naver/static/js/2.5ff4dc11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e7673e4.js",
+    "static/js/2.5ff4dc11.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a36a8edd.chunk.js"
+  ]
+}
